@@ -1,3 +1,5 @@
+#For my Econ class i decided to use some of the pyhthon i learned to create a program to calculate Elasticity 
+
 print("ELASTICITY CALCULATOR")
 
 question1 = input("do you want income elasticicty of demand (type(INCOME)) or cross price elasticity(type(CROSS)):")
