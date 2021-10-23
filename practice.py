@@ -1,4 +1,4 @@
-#For my Econ class i decided to use some of the pyhthon i learned to create a program to calculate Elasticity 
+#For my Econ class i decided to use some of the python i learned to create a program to calculate Elasticity 
 
 print("ELASTICITY CALCULATOR")
 
