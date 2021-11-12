@@ -13,7 +13,7 @@ BLUE = (0,68,255)
 
 pygame.init()
 WINDOW = screen = pygame.display.set_mode((1000,400))
-pygame.display.set_caption("Piano COLORS")
+pygame.display.set_caption("Piano of COLORS")
 clock = pygame.time.Clock()
 
 
