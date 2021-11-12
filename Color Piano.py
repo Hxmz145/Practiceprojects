@@ -69,7 +69,7 @@ while Running:
         if pressed[pygame.K_a]:
             test_surface2.fill(COLORS1)
             screen.blit(test_surface2,(200,100))
-
+#Controls are a,s,d,f,g
         if pressed[pygame.K_s]:
             test_surface.fill(COLORS2)
             screen.blit(test_surface,(0,100))
