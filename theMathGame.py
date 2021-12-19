@@ -1,4 +1,4 @@
-power = False
+#I created a math game with tkinter but it is not that good 
 from tkinter import *
 import random
 q1 = random.randint(1,10)
