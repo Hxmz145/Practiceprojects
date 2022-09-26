@@ -1,4 +1,8 @@
-Plaintext_input = (input("Enter a lelter to shift in ceaser cypher:"))
+#This is a Ceaser cypher encoder so you can enter any word and enter the shift value you would like to add
+
+
+
+Plaintext_input = (input("Enter a word to shift in ceaser cypher:"))
 S = (int(input("enter shift pattern you would like:")))
 new_list = [*Plaintext_input]
 encrypt_list = []
