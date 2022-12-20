@@ -1,3 +1,8 @@
+#Its an encryptor and decryptor so you can add any plaintext you want and it will encrypt it in 
+#Ceaser Cipher,DES,AES,OTP,RSA,Columnar and Rail fence encryption
+
+
+
 import tkinter
 from tkinter import *
 from Crypto.Cipher import AES
