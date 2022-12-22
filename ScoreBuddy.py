@@ -1,3 +1,6 @@
+#a Project i made that shows random nba game happening at that moment and their score aswell.
+
+
 import ursina
 from ursina import *
 import nba_api
