@@ -1,3 +1,8 @@
+#This is an app that tells you the prayertimes from any city,town or country using Kivy and Aladhan API
+
+
+
+
 import kivy
 import aladhan
 from kivy.app import App
